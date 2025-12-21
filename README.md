@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a web developer from Delhi (NCR). I build web apps using HTML, CSS, JavaScript and love exploring new technologies.
+👋 Hi, I’m Naveen Kumar
+
+I have hands-on experience with Data Structures and Algorithms using C, C++, and Java, along with practical skills in HTML, CSS, JavaScript, and ReactJS.
+
+I’m currently learning full-stack web development and enjoy building scalable, user-friendly applications. I’m passionate about problem-solving, exploring new technologies, and continuously improving my skills through hands-on practice.
 
 
 ## 🌐 Socials:
