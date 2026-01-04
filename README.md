@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Naveen Kumar<br><br>💻 Backend Developer<br><br>🛠️ Working with JavaScript, Node.js, Express, MongoDB, Mongoose<br><br>📚 Currently learning API development, authentication, and deployment<br><br>🚀 Interested in REST APIs, databases, and scalable backend systems<br><br>🧩 I enjoy problem-solving and building real-world projects<br><br>🤝 Open to collaboration on backend or full-stack projects<br><br>🧰 Tech Stack<br><br>Languages: JavaScript<br><br>Backend: Node.js, Express<br><br>Database: MongoDB, Mongoose<br><br>Tools: Git, Postman
+👋 Hi, I’m Naveen Kumar<br><br>💻 MERN Stack Developer<br><br>🛠️ Working with JavaScript, Node.js, Express, MongoDB, Mongoose<br><br>📚 Currently learning API development, authentication, and deployment<br><br>🚀 Interested in REST APIs, databases, and scalable backend systems<br><br>🧩 I enjoy problem-solving and building real-world projects<br><br>🤝 Open to collaboration on backend or full-stack projects<br><br>🧰 Tech Stack<br><br>Languages: JavaScript<br><br>Backend: Node.js, Express<br><br>Database: MongoDB, Mongoose<br><br>Tools: Git, Postman
 
 
 ## 🌐 Socials:
