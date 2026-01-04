@@ -1,9 +1,26 @@
-# 💫 About Me:
 👋 Hi, I’m Naveen Kumar
 
-I have hands-on experience with Data Structures and Algorithms using C, C++, and Java, along with practical skills in HTML, CSS, JavaScript, and ReactJS.
+💻 Backend Developer
 
-I’m currently learning full-stack web development and enjoy building scalable, user-friendly applications. I’m passionate about problem-solving, exploring new technologies, and continuously improving my skills through hands-on practice.
+🛠️ Working with JavaScript, Node.js, Express, MongoDB, Mongoose
+
+📚 Currently learning API development, authentication, and deployment
+
+🚀 Interested in REST APIs, databases, and scalable backend systems
+
+🧩 I enjoy problem-solving and building real-world projects
+
+🤝 Open to collaboration on backend or full-stack projects
+
+🧰 Tech Stack
+
+Languages: JavaScript
+
+Backend: Node.js, Express
+
+Database: MongoDB, Mongoose
+
+Tools: Git, Postman
 
 
 ## 🌐 Socials:
