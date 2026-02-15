@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:-
 👋 Hi, I'm Naveen Kumar<br><br>🎓 Computer Science Student (BCA)<br>💻 Aspiring Full Stack Web Developer<br>🌱 Currently learning MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>🚀 Passionate about building real-world projects and improving problem-solving skills
 
 
