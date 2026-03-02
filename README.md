@@ -95,7 +95,6 @@ const mernArchitect = {
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" />
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
@@ -156,34 +155,6 @@ $ pm2 status mern-architect
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
 </p>
-
----
-
-## 🔐 Project Vaults
-
-### 🏛️ Vault #001: E-Commerce Nexus
-```
-Stack:     MongoDB | Express | React | Node.js | Redux | Stripe
-Mission:   Full-stack marketplace with real-time inventory & payments
-Status:    🟢 DEPLOYED | https://ecommerce-nexus.vercel.app
-Features:  JWT Auth | Cart Persistence | Admin Dashboard | Payment Gateway
-```
-
-### 🏛️ Vault #002: Task Matrix Pro
-```
-Stack:     MongoDB | Express | React | Node.js | Socket.io | Tailwind
-Mission:   Collaborative project management with real-time updates
-Status:    🟢 LIVE | https://taskmatrix-pro.herokuapp.com
-Features:  Drag-n-Drop | Team Chat | Notifications | Analytics
-```
-
-### 🏛️ Vault #003: Social Pulse API
-```
-Stack:     Node.js | Express | MongoDB | Redis | AWS S3
-Mission:   Scalable social media backend with feed algorithms
-Status:    🔵 ARCHITECTED | Open Source
-Features:  Rate Limiting | Media Upload | News Feed | Follow System
-```
 
 ---
 
