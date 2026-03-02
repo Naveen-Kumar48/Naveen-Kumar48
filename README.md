@@ -16,16 +16,6 @@
 
 <!-- MATRIX RAIN DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00D4AA,100:000000&height=4&section=header"/>
-
-```
-    ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗     ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗ 
-    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
-    ███████║███████║██║     █████╔╝ █████╗  ██████╔╝    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
-    ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-    ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
-    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
 <!-- TERMINAL BOOT SEQUENCE -->
 ```bash
 $ sudo ./init_system.sh --user=Naveen-Kumar48 --mode=extreme
@@ -204,53 +194,6 @@ root@naveen-kumar:~# htop
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" />
 </p>
-
----
-
-## 🔐 CLASSIFIED PROJECTS
-
-### 📁 OPERATION: E-COMMERCE NEXUS
-```yaml
-Classification: TOP SECRET
-Stack: MongoDB | Express | React | Node.js | Redux | Stripe
-Mission: Infiltrate the digital marketplace
-Status: 🟢 DEPLOYED // https://ecommerce-nexus.vercel.app
-Features:
-  - JWT Authentication Protocol
-  - Real-time Inventory Sync
-  - Admin Command Center
-  - Encrypted Payment Gateway
-Threat Level: MODERATE
-```
-
-### 📁 OPERATION: TASK MATRIX
-```yaml
-Classification: CONFIDENTIAL
-Stack: MongoDB | Express | React | Node.js | Socket.io | Tailwind
-Mission: Disrupt project management paradigms
-Status: 🟢 LIVE // https://taskmatrix-pro.herokuapp.com
-Features:
-  - Real-time Collaborative Workspace
-  - WebSocket Communication
-  - Drag-n-Drop Intelligence
-  - Notification Surveillance
-Threat Level: ELEVATED
-```
-
-### 📁 OPERATION: SOCIAL PULSE
-```yaml
-Classification: RESTRICTED
-Stack: Node.js | Express | MongoDB | Redis | AWS S3
-Mission: Decode social network algorithms
-Status: 🔵 ARCHITECTED // Open Source
-Features:
-  - Rate Limiting Defense
-  - Media Upload Infrastructure
-  - Feed Algorithm Manipulation
-  - Social Graph Analysis
-Threat Level: CRITICAL
-```
-
 ---
 
 ## 🎯 ACTIVE OPERATIONS
