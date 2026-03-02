@@ -1,44 +1,3 @@
-<!-- 
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║  ROOT ACCESS GRANTED // LEVEL 5 CLEARANCE                         ║
-║  User: NAVEEN_KUMAR                                               ║
-║  Timeline: 3000 AD → PRESENT                                      ║
-║  Status: TRANSCENDED_PHYSICAL_FORM                                ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
--->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4AA,50:0D1117,100:00D4AA&height=300&section=header&text=NAVEEN%20KUMAR&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Architect%20%7C%20Time%20Traveler%20%7C%20Code%20Breaker&descAlignY=55&descSize=16&stroke=00FF41&strokeWidth=3"/>
-
-<div align="center">
-
-<!-- QUANTUM BOOT SEQUENCE -->
-```bash
-$ ./quantum_warp_drive.sh --user=Naveen-Kumar48 --timeline=future --mode=extreme
-
-╔═══════════════════════════════════════════════════════════════╗
-║  ⚡ QUANTUM COMPUTER ONLINE                                    ║
-║  🌟 TEMPORAL ANCHOR: 3000 AD                                  ║
-║  🔗 BLOCKCHAIN: DECENTRALIZED                                 ║
-║  🧠 NEURAL LINK: SYNCHRONIZED                                 ║
-║  💀 HACKER MODE: ENGAGED                                      ║
-║                                                               ║
-║  [██████████] 100% SYSTEM READY                              ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<!-- HOLOGRAPHIC TYPING EFFECT -->
-[![Holographic Display](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=1000&height=120&lines=⚛️_QUANTUM_MERN_ARCHITECT;🚀_BUILDING_TOMORROW'S_WEB_TODAY;💎_SMART_CONTRACT_ENGINEER;🤖_AI_INTEGRATION_SPECIALIST;🌐_DECENTRALIZED_DEVELOPER;🔓_SYSTEM_INTRUDER)](https://git.io/typing-svg)
-
-<!-- MATRIX DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:00FF41,50:00D4AA,75:00FF41,100:000000&height=6&section=header&reversal=true"/>
-
-                                                                                
-```
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=200&section=header&text=MERN%20Stack%20Architect&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Code%20Artisan%20%7C%20System%20Designer&descAlignY=55&descSize=18"/>
 
 <div align="center">
@@ -238,4 +197,3 @@ $ pm2 status mern-architect
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=120&section=footer&animation=twinkling&fontAlignY=80"/>
 
 </div>
-
