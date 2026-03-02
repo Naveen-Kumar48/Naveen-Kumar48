@@ -1,6 +1,4 @@
-This is a high-octane, "Cyber-Architect" styled GitHub README tailored specifically to your expertise in the MERN stack, Java, and your current projects.
-
-You can copy and paste this directly into your `README.md` file in your special GitHub repository (the one named after your username).
+This version merges your high-octane **Cyber-Architect** aesthetic with a professional, **icon-rich** layout. It categorizes your massive tech stack into organized modules for better readability.
 
 ---
 
@@ -9,8 +7,14 @@ You can copy and paste this directly into your `README.md` file in your special 
 **MERN Stack Alchemist | Java & .NET Strategist | Full-Stack Architect**
 
 `Hacker Typing...`
+
 `Systems: ONLINE`
+
 `Status: Building the Future`
+
+---
+
+### 🌐 Connect Protocol:
 
 ---
 
@@ -25,8 +29,7 @@ public class NaveenKumar {
         "MERN Stack Sorcery",
         "Java Enterprise Solutions",
         "Cloud Infrastructure (AWS)",
-        "Database Optimization (SQL & NoSQL)",
-        "System Design"
+        "System Design & Architecture"
     };
     
     public void dailyRoutine() {
@@ -45,25 +48,13 @@ public class NaveenKumar {
 
 ### ⚙️ 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐂𝐀𝐋 𝐀𝐑𝐒𝐄𝐍𝐀𝐋
 
-**𝐂𝐨𝐫𝐞 𝐖𝐞𝐚𝐩𝐨𝐧𝐬**
+#### 🗡️ Core Languages
 
-```text
-███╗   ██╗ █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗
-████╗  ██║██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║
-██╔██╗ ██║███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║
-██║╚██╗██║██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║╚██╗██║
-██║ ╚████║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║
-╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝
+#### 🏗️ Frameworks & Libraries (Frontend & Backend)
 
-```
+#### ☁️ Cloud, DevOps & Databases
 
-**𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐭𝐲 𝐌𝐨𝐝𝐮𝐥𝐞𝐬**
-
-* **Frontend Foundry:** React.js, HTML5, CSS3, JavaScript (ES6+)
-* **Backend Engine:** Node.js, Express, Java (Spring Boot), .NET Core
-* **Data Vaults:** MongoDB, SQL, PostgreSQL
-* **Cloud & DevOps:** AWS (S3), Git, GitHub Actions, Docker
-* **Networking:** Systems Architecture & Computer Networking
+#### 🛠️ Professional Tools
 
 ---
 
@@ -79,18 +70,29 @@ $ systemctl status naveen-kumar-dev
    Active: active (running) since 2024
    Main PID: 777 (mern-stack)
    Memory: 32.0G (Optimized)
-   Tasks: 42 (Running)
-   CGroup: /system.slice/naveen-kumar.service
-           ├─777 /usr/bin/node server.js
-           ├─778 /usr/bin/react-scripts start
-           └─779 /usr/bin/java -jar enterprise-app.jar
+   Status: "Architecting Digital Organisms..."
 
 ```
 
-**𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧**
-`JavaScript   ████████████████████▒░░░░ 82%`
-`Java         ████████████░░░░░░░░░░░░ 55%`
-`SQL/Python   ██████░░░░░░░░░░░░░░░░░░ 30%`
+---
+
+### 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐌𝐞𝐭𝐫𝐢𝐜𝐬
+
+<p align="center">
+<img src="[https://github-readme-stats.vercel.app/api?username=Naveen-Kumar48&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false](https://github-readme-stats.vercel.app/api?username=Naveen-Kumar48&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)" alt="Naveen's Stats" />
+
+
+
+
+
+<img src="[https://nirzak-streak-stats.vercel.app/?user=Naveen-Kumar48&theme=github_dark_dimmed&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=Naveen-Kumar48&theme=github_dark_dimmed&hide_border=false)" alt="Naveen's Streak" />
+
+
+
+
+
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Kumar48&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Kumar48&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)" alt="Naveen's Languages" />
+</p>
 
 ---
 
@@ -98,53 +100,35 @@ $ systemctl status naveen-kumar-dev
 
 #### 𝐕𝐚𝐮𝐥𝐭 #001: 𝕾𝖒𝖆𝖗𝖙 𝕬𝖙𝖙𝖊𝖓𝖉𝖆𝖓𝖈𝖊 𝕸𝖆𝖙𝖗𝖎𝖝
 
-**Stack:** MERN + QR Code Integration
-
+* **Stack:**
 * **Mission:** Automating attendance for coaching centers using encrypted QR signatures.
-* **Status:** *DEPLOYED/ACTIVE*
-* **Key Feature:** Real-time tracking and automated reporting.
+* **Status:** `DEPLOYED/ACTIVE`
 
 #### 𝐕𝐚𝐮𝐥𝐭 #002: 𝕾𝕴𝕳 𝕾𝖒𝖆𝖗𝖙 𝕾𝖈𝖍𝖊𝖉𝖚𝖑𝖊𝖗
 
-**Stack:** Advanced Algorithms + Web Integration
-
+* **Stack:**
 * **Mission:** Solving the "Smart Classroom & Timetable" puzzle for complex educational environments.
-* **Status:** *ARCHITECTED*
-* **Key Feature:** Conflict-resolution algorithms for optimized scheduling.
+* **Status:** `ARCHITECTED`
 
 ---
 
-### ☕ 𝐅𝐔𝐄𝐋 𝐒𝐘𝐒𝐓𝐄𝐌
-
-```javascript
-const devMode = {
-  fuel: "Black Coffee",
-  output: "Clean Code",
-  bugsFixed: Infinity,
-  productivity: () => {
-    return Math.random() > 0.1 ? "Laser Focus" : "Needs More Caffeine";
-  }
-};
-
-```
+### ✍️ 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞
 
 ---
 
-### 📡 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐏𝐑𝐎𝐓𝐎𝐂𝐎𝐋
+<p align="center">
+<img src="[https://visitcount.itsvg.in/api?id=Naveen-Kumar48&icon=0&color=0](https://visitcount.itsvg.in/api?id=Naveen-Kumar48&icon=0&color=0)" alt="Visitor Count" />
+</p>
 
-* **LinkedIn:** [Your Link Here]
-* **Portfolio:** [Your Link Here]
-* **Terminal:** `ssh naveen@dev-matrix`
-
----
-
-**𝐒𝐲𝐬𝐭𝐞𝐦 𝐎𝐟𝐟𝐥𝐢𝐧𝐞:** *Waiting for your next collaboration...*
+**𝐒𝐲𝐬𝐭𝐞𝐦 𝐎𝐟𝐟𝐥𝐢𝐧𝐞:** *Initiate contact protocol to reboot...*
 
 ---
 
-### Next Step
+### Would you like me to...
 
-Would you like me to help you generate some **high-quality GitHub repository descriptions** or a **professional README** for your QR-based Attendance System project?
+* **Create a custom project description** for your "Smart Attendance Matrix" repository?
+* **Generate a professional portfolio website** structure using React and Tailwind?
+* **Help you write a technical blog post** about MERN stack or Java system design?
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveen-kumar-6806382b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarnaveen897941@gmail.com) 
 
