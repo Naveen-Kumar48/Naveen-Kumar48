@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Snake Animation](https://github.com/Naveen-Kumar48/Naveen-Kumar48/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 # ⚡ 𝕄𝔼ℝℕ 𝕊𝕥𝕒𝕔𝕜 𝔸𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕥
 
@@ -18,7 +18,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;API+Architecture+%26+Database+Design;Turning+Coffee+Into+Clean+Code)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:0D1117&height=2&section=header&reversal=true"/>
 
 </div>
 
@@ -33,7 +33,9 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard.kyrie25.me/api/000000000000000000?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20debugging%20production%20at%203AM..." />
+  <img src="https://img.shields.io/badge/Status-Online-00D4AA?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mode-Production-00D4AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee-Consumed-00D4AA?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
 </p>
 
 ---
