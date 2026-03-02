@@ -72,7 +72,7 @@ root@future-dev-quantum-core:~# _
 
 <p align="center">
   <img src="https://img.shields.io/badge/DIMENSION-PRIME-00FF41?style=for-the-badge&logo=trellis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TECH_LEVEL-TYPE_IV_CIVILIZATION-00D4AA?style=for-the-badge&logo=starship&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TECH_LEVEL-TYPE_IV_CIVILIZATION-00D4AA?style=for-the-badge&logo=trellis&logoColor=white"/>
   <img src="https://img.shields.io/badge/POWER_SOURCE-DYSON_SPHERE-FFA500?style=for-the-badge&logo=sun&logoColor=white"/>
   <img src="https://img.shields.io/badge/FUEL-NFT_COFFEE_TOKENS-6F4E37?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
 </p>
@@ -178,13 +178,13 @@ developer.exist(); // Executes in past, present, and future simultaneously
 ### 🚀 FUTURE TECHNOLOGIES (From Year 3000)
 <p align="left">
   <img src="https://img.shields.io/badge/Quantum_Computing-ONLINE-00FF41?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neural_Interface-WIRED-00D4AA?style=for-the-badge&logo=brain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neural_Interface-WIRED-00D4AA?style=for-the-badge&logo=google%20assistant&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nanotechnology-ACTIVE-FF00FF?style=for-the-badge&logo=atom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antimatter_Power-STABLE-FFA500?style=for-the-badge&logo=starship&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Holographic_UI-RENDERED-00BFFF?style=for-the-badge&logo=holo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Telepathy_API-CONNECTED-9932CC?style=for-the-badge&logo=radio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dark_Matter_Storage-FULL-8B00FF?style=for-the-badge&logo=blackhole&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Time_Travel-ENABLED-FF1493?style=for-the-badge&logo=hourglass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antimatter_Power-STABLE-FFA500?style=for-the-badge&logo=amazon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Holographic_UI-RENDERED-00BFFF?style=for-the-badge&logo=hologram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telepathy_API-CONNECTED-9932CC?style=for-the-badge&logo=signal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dark_Matter_Storage-FULL-8B00FF?style=for-the-badge&logo=dropbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Time_Travel-ENABLED-FF1493?style=for-the-badge&logo=history&logoColor=white"/>
 </p>
 
 ---
