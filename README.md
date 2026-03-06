@@ -65,76 +65,6 @@ const mernArchitect = {
 
 ---
 
-## ⚙️ Technological Arsenal
-
-### 🗡️ Core Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
-</p>
-
-### 🏗️ Frontend Ecosystem
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,redux,nextjs&theme=dark" />
-</p>
-
-### ⚡ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis,graphql&theme=dark" />
-</p>
-
-### ☁️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,netlify,github,postman&theme=dark" />
-</p>
-
-### 🔧 Additional Arsenal
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" />
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" />
-  <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" />
-</p>
-
----
-
-## 📡 System Status
-
-```bash
-$ pm2 status mern-architect
-
-┌─────┬─────────────────────┬────────┬─────────┬─────────┬────────┬──────┐
-│ id  │ name                │ mode   │ status  │ ↺       │ cpu    │ mem  │
-├─────┼─────────────────────┼────────┼─────────┼─────────┼────────┼──────┤
-│ 0   │ mern-architect      │ fork   │ online  │ 0       │ 12%    │ 64MB │
-└─────┴─────────────────────┴────────┴─────────┴─────────┴────────┴──────┘
-
-[LOG] Server running on port 3000
-[LOG] MongoDB connection established
-[LOG] React app compiled successfully
-[LOG] API endpoints secured with JWT
-[LOG] WebSocket connections active
-```
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Kumar48&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</p>
-
----
-
 ## 📊 Technology Stack Architecture
 
 ### 💻 Programming Languages Distribution
@@ -220,7 +150,7 @@ const tools = {
   packageManager: "NPM",
   apiTesting: "Postman",
   deployment: "Vercel",
-  integrations: "Stripe API",
+  integrations: ["Stripe API", "Gemini AI"],
   fundamentals: ["OOP", "Data Structures"]
 };
 ```
@@ -238,7 +168,7 @@ const tools = {
 | **Backend** | Node.js, Express.js, RESTful APIs, JWT Auth |
 | **Databases** | MongoDB (Mongoose), MySQL |
 | **Tools** | Git/GitHub, VS Code, NPM, Postman, Vercel |
-| **APIs** | Stripe API Integration |
+| **APIs** | Stripe API, Gemini AI |
 | **Concepts** | OOP, Data Structures, Middleware |
 
 ---
