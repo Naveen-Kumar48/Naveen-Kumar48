@@ -135,6 +135,114 @@ $ pm2 status mern-architect
 
 ---
 
+## 📊 Technology Stack Architecture
+
+### 💻 Programming Languages Distribution
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  CORE LANGUAGES - PROJECT BUILDING ARSENAL                 │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   JavaScript (ES6+)    ████████████████████░░░░░░   60%    │
+│   Java                 ████░░░░░░░░░░░░░░░░░░░░░░   15%    │
+│   C++                  ███░░░░░░░░░░░░░░░░░░░░░░░   12%    │
+│   Python               ██░░░░░░░░░░░░░░░░░░░░░░░░    8%    │
+│   SQL                  █░░░░░░░░░░░░░░░░░░░░░░░░░    5%    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 🎨 Frontend Technologies
+
+```javascript
+const frontend = {
+  core: ["React.js", "Next.js", "Redux"],
+  styling: ["Tailwind CSS", "HTML5", "CSS3"],
+  expertise: "Responsive Web Design",
+  frameworks: {
+    react: "Component-based architecture",
+    nextjs: "SSR & Static Generation",
+    redux: "State management"
+  }
+};
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,js&theme=dark" />
+</p>
+
+### ⚡ Backend Technologies
+
+```javascript
+const backend = {
+  runtime: "Node.js",
+  framework: "Express.js",
+  apis: ["RESTful APIs", "Middleware Architecture"],
+  security: "JWT Authentication",
+  features: {
+    nodejs: "Event-driven I/O",
+    express: "Minimalist web framework",
+    jwt: "Token-based auth"
+  }
+};
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,jwt&theme=dark" />
+</p>
+
+### 🗄️ Database Technologies
+
+```javascript
+const databases = {
+  nosql: "MongoDB (Mongoose ODM)",
+  sql: "MySQL",
+  skills: "Database Schema Design",
+  expertise: {
+    mongodb: "Document-based storage",
+    mysql: "Relational database design",
+    mongoose: "Schema modeling"
+  }
+};
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</p>
+
+### 🛠️ Tools & Development Environment
+
+```javascript
+const tools = {
+  versionControl: ["Git", "GitHub"],
+  ide: "VS Code",
+  packageManager: "NPM",
+  apiTesting: "Postman",
+  deployment: "Vercel",
+  integrations: "Stripe API",
+  fundamentals: ["OOP", "Data Structures"]
+};
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,vercel&theme=dark" />
+</p>
+
+### 📊 Complete Tech Stack Overview
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | JavaScript (ES6+), Java, C++, Python, SQL |
+| **Frontend** | React.js, Next.js, Redux, Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, RESTful APIs, JWT Auth |
+| **Databases** | MongoDB (Mongoose), MySQL |
+| **Tools** | Git/GitHub, VS Code, NPM, Postman, Vercel |
+| **APIs** | Stripe API Integration |
+| **Concepts** | OOP, Data Structures, Middleware |
+
+---
+
 ## 📊 GitHub Metrics
 
 <p align="center">
