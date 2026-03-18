@@ -24,8 +24,9 @@
 ## 🌐 Connection Protocol
 
 <p align="center">
+  <a href="https://naveenweb.site/" target="_blank"><img src="https://img.shields.io/badge/🚀_Portfolio-Live%20Site-00D4AA?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:kumarnaveen897941@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D4AA" /></a>
-  <a href="https://linkedin.com/in/naveen-kumar-6806382b9/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D4AA" /></a>
+  <a href="https://www.linkedin.com/in/naveen-kumar-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D4AA" /></a>
   <a href="https://github.com/Naveen-Kumar48"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D4AA" /></a>
 </p>
 
