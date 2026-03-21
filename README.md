@@ -8,7 +8,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  [SYSTEM BOOT] MERN Stack Environment Initialized...         ║
-║  [STATUS] All Systems Operational                            ║
+║  [STATUS] All Systems Operational .                           ║
 ║  [MISSION] Crafting Digital Experiences That Scale           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
