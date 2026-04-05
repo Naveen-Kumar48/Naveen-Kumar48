@@ -178,7 +178,7 @@ const tools = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Kumar48&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Naveen-Kumar48&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Kumar48&theme=github_dark_dimmed&hide_border=false" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
@@ -208,7 +208,7 @@ const tools = {
 ## 📈 Contribution Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Kumar48&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Kumar48&theme=github-compact&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
 ---
