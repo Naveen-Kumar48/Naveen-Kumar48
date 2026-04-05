@@ -93,8 +93,8 @@ const frontend = {
   expertise: "Responsive Web Design",
   frameworks: {
     react: "Component-based architecture",
-    nextjs: "SSR & Static Generation",
-    redux: "State management"
+    NextJS: "SSR & Static Generation",
+    redux: "State management."
   }
 };
 ```
@@ -105,16 +105,16 @@ const frontend = {
 
 ### ⚡ Backend Technologies
 
-```javascript
+```JavaScript
 const backend = {
   runtime: "Node.js",
   framework: "Express.js",
   apis: ["RESTful APIs", "Middleware Architecture"],
   security: "JWT Authentication",
   features: {
-    nodejs: "Event-driven I/O",
+    NodeJS: "Event-driven I/O",
     express: "Minimalist web framework",
-    jwt: "Token-based auth"
+    jwt: "Token-based auth."
   }
 };
 ```
@@ -133,7 +133,7 @@ const databases = {
   expertise: {
     mongodb: "Document-based storage",
     mysql: "Relational database design",
-    mongoose: "Schema modeling"
+    mongoose: "Schema modeling."
   }
 };
 ```
@@ -181,7 +181,7 @@ const tools = {
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Kumar48&theme=github-compact&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF" alt="Contribution Graph" />
+
 </p>
 
 ---
