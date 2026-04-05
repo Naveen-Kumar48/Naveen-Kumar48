@@ -214,7 +214,7 @@ const tools = {
 
 <div align="center">
 
-### 💀 System Offline: Initialize handshake to reconnect...
+### 💀 System Online: Initialize handshake to connect...
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Naveen-Kumar48&color=00D4AA&style=for-the-badge&label=SYSTEM+VISITS" alt="Profile Views" />
